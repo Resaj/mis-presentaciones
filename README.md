@@ -12,7 +12,9 @@ Rubén Espino San José
 
 
 ## License
-![alt tag](./license/by-sa.png)
+<div style="text-align:center" markdown="1">
+![Creative Commons Attribution-ShareAlike 4.0 International License](./license/by-sa.png)
+</div>
 
 Todos estos productos están liberados mediante [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  
 _All these products are released under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)._
