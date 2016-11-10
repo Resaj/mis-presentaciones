@@ -1,4 +1,4 @@
-# presentacion-oshwdem-2016
+# Presentación OSHWDem 2016 sobre robótica de competición
 Diapositivas de la charla de robótica de competición impartida en la OSHWDem 2016.
 Se recogen las ideas básicas del trabajo que el equipo Puma Pride ha llevado a cabo en los últimos años en la Liga Nacional de Robótica de Competición.
 
