@@ -7,9 +7,8 @@ https://www.youtube.com/watch?v=6K9mQbnfO4o
 
 Para cualquier duda, contactar conmigo a través del email especificado en mi perfil.
 
----------------------
-Rubén Espino San José
-
+## Autor
+[Rubén Espino San José](https://github.com/Resaj)
 
 ## License
 <p align="center">
