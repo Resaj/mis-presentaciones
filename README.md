@@ -4,7 +4,7 @@ En este repositorio se recogen todas las presentaciones de charlas y conferencia
 ## Autor
 [Rubén Espino San José](https://github.com/Resaj)
 
-## License
+## Licencia
 <p align="center">
 <img src="license/by-sa.png" align = "center">
 </p>
