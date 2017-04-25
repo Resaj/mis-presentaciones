@@ -2,7 +2,7 @@
 # Implementación de algoritmos PID
 Diapositivas de la charla "Implementación de algoritmos PID" impartida en Malakabot 2017. En ella se muestran el funcionamiento básico de un algoritmo PID y algunas posibles aplicaciones en robots siguelíneas y drones.
 
-#Pumatrón. Trucos y detalles de un robot de carreras
+# Pumatrón. Trucos y detalles de un robot de carreras
 Diapositivas de la charla "Pumatrón. Trucos y detalles de un robot de carreras" impartida en Malakabot 2017. En ella se muestran algunas de las soluciones hardware y software que se han aplicado en Pumatrón para conseguir que sea un robot de carreras competitivo.
 
 ## Autor
