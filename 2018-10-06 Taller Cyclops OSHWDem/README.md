@@ -5,6 +5,10 @@ La documentación completa de Cyclops-Project se encuentra en [este repositorio]
 
 Si solamente se desea adquirir un kit, se aconseja inscribirse a las conjuntas que periódicamente se realizan para la adquisición de los materiales. De lo contrario, pueden localizarse los materiales y sus referencias para el taller en el documento adjunto de "Listado de materiales" (tiene dos pestañas, una con las referencias de compra y otra con los componentes exactos), en esta misma carpeta.
 
+Aunque no es imprescindible, es aconsejable asistir al taller con ordenador portátil con bluetooth y el [IDE de Arduino](https://www.arduino.cc/en/Main/Software) instalado.
+
+También es necesario disponer de un cargador de baterías lipo de 2 celdas para pruebas posteriores en casa. En principio se aconsejará a título personal a cada asistente para que lo adquiera con antelación, según el uso que vaya a darle.
+
 ## Autor
 [Rubén Espino San José](https://github.com/Resaj)
 
