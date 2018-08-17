@@ -3,7 +3,7 @@ En esta carpeta puede encontrarse la documentación del taller de Cyclops-Projec
 
 La documentación completa de Cyclops-Project se encuentra en [este repositorio](https://github.com/Resaj/cyclops-project). Y existe un [grupo de correo](https://groups.google.com/forum/#!forum/cyclops-project) en el que exponer dudas y compartir experiencias robóticas con muchas personas implicadas en Cyclops-Project.
 
-Si solamente se desea adquirir un kit, se aconseja inscribirse a las conjuntas que periódicamente se realizan para la adquisición de los materiales. De lo contrario, pueden localizarse los materiales y sus referencias para el taller en el documento adjunto de "Listado de materiales", en esta misma carpeta.
+Si solamente se desea adquirir un kit, se aconseja inscribirse a las conjuntas que periódicamente se realizan para la adquisición de los materiales. De lo contrario, pueden localizarse los materiales y sus referencias para el taller en el documento adjunto de "Listado de materiales" (tiene dos pestañas, una con las referencias de compra y otra con los componentes exactos), en esta misma carpeta.
 
 ## Autor
 [Rubén Espino San José](https://github.com/Resaj)
