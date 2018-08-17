@@ -1,5 +1,5 @@
 # Mis presentaciones
-En este repositorio se recogen todas las presentaciones de charlas y conferencias que realizo.
+En este repositorio se recogen todas las presentaciones y documentación de charlas, conferencias y talleres que realizo.
 
 ## Autor
 [Rubén Espino San José](https://github.com/Resaj)
